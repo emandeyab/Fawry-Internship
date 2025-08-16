@@ -3,9 +3,9 @@
 This repository contains Fawry Internship tasks that I have completed as part of my internship to learn full-stack engineering using tools Spring Boot and Angular.
 
 ## Internship Content
-- [Week1](intern-content/Week%201/)
-- [Week2](intern-content/Week%202/)
-- [Week3](intern-content/Week%203/) 
+- [Week1](https://github.com/emandeyab/Fawry-Internship/tree/main/week1)
+- [Week2](https://github.com/emandeyab/Fawry-Internship/tree/main/week2)
+- [Week3](https://github.com/emandeyab/Fawry-Internship/tree/main/week3) 
 
 
 ## Plan
